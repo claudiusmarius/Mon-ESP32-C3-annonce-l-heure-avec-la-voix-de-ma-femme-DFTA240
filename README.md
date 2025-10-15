@@ -3,4 +3,4 @@ Test avec heure fictive et 24 fichiers sonores
 
 Vidéo Youtube : https://youtu.be/AYjR5j4B4aY
 
-Le fichier zip du son devra être placé dézippé dans un dossier "wife" sur les DFPlayer Pro
+Le fichier zip du son devra être placé dézippé dans un dossier "wife" sur le DFPlayer Pro
